@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/blazeplace/blazeplace-node/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/blazeplace/blazeplace-node",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/blazeplace.js",
+  "name": "blazeplace",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blazeplace/blazeplace-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
